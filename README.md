@@ -30,6 +30,7 @@ $bin/rails server
 *[Ramdan](https://www.linkedin.com/in/onlyramdan/)
 
 ## Structure
+'''
 fe-master-agama/
 ├── app
 │   ├── assets
@@ -733,3 +734,5 @@ fe-master-agama/
 │   └── storage
 └── vendor
     └── javascript
+
+'''
