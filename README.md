@@ -22,15 +22,15 @@ Things you may want to cover:
 * Msql2 
 
 ## Instalation
-'''
+```
 $bin/rails server
-'''
+````
 
 ## Credits
 *[Ramdan](https://www.linkedin.com/in/onlyramdan/)
 
 ## Structure
-'''
+```
 fe-master-agama/
 ├── app
 │   ├── assets
@@ -735,4 +735,4 @@ fe-master-agama/
 └── vendor
     └── javascript
 
-'''
+```
